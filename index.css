@@ -1,0 +1,49 @@
+
+body{
+  background-image: url("/BG.png");
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+  margin: 0;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+  
+}
+
+.container {
+  text-align: center;
+}
+h1{
+  font-size: 50px;
+  color: white;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+span{
+  background:linear-gradient(to right, #c7acb6, #c480b8, #cf23cf, #e544ee); 
+-webkit-text-fill-color: transparent; 
+-webkit-background-clip: text; 
+}
+.search{
+  color: aliceblue;
+  font-size: 33px;
+}
+
+input{
+  height: 35px;
+  width:500px;
+  background-color: rgb(16, 16, 44);
+  border-style: none;
+  color: white;
+}
+.search img{
+  margin-right: 7px;
+}
+.all-movies{
+  color: aliceblue;
+}
+h2{
+  color: white;
+  font-size: 25px;
+}
