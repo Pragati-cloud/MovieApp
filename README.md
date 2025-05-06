@@ -1,8 +1,20 @@
-# React + Vite
+🎬 Movie Explorer - React Web App
+Movie Explorer is a responsive and user-friendly web application built with React that allows users to search and discover movies using real-time data from a public movie API (like TMDb or OMDb). Users can browse popular movies, view detailed movie information, and search by title.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔧 Tech Stack
+React.js for frontend development
 
-Currently, two official plugins are available:
+Axios / Fetch API for data fetching
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+CSS for styling
+
+Movie API (TMDb)
+
+✨ Features
+🔍 Search movies by name
+
+📃 View movie details (title, poster, rating, overview, release date)
+
+🖼️ Dynamic UI with responsive design
+
+🚀 Smooth user experience with fast API calls
